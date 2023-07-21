@@ -23,8 +23,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/Padmakar9394/QR-Card)
-- Live Site URL: [Add live site URL here](https://padmakar9394.github.io/QR-Card/)
+- Solution URL: (https://github.com/Padmakar9394/QR-Card)
+- Live Site URL: (https://padmakar9394.github.io/QR-Card/)
 
 ## My process
 
@@ -41,8 +41,6 @@ I'm currently studying javascript concepts, advanced css topics
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/Padmakar9394)
-- LinkedIn - [@yourusername](https://www.linkedin.com/in/padmakar-gore-3865b2216)
-
-**Note: Delete this note and add/remove/edit lines above based on what links you'd like to share.**
+- Frontend Mentor - [Padmakar9394](https://www.frontendmentor.io/profile/Padmakar9394)
+- LinkedIn - [padmakar gore](https://www.linkedin.com/in/padmakar-gore-3865b2216)
 
